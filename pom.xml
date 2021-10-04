@@ -29,6 +29,12 @@
         </dependency>
 
         <dependency>
+            <groupId>io.reactivex</groupId>
+            <artifactId>rxnetty-http</artifactId>
+            <version>0.5.3</version>
+        </dependency>
+
+        <dependency>
             <groupId>io.reactivex.rxjava3</groupId>
             <artifactId>rxjava</artifactId>
             <version>${rxJava.version}</version>
